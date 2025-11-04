@@ -1,0 +1,16 @@
+{
+  "name": "pelmeshcord",
+  "version": "1.0.0",
+  "description": "PelmeshCord - with WebRTC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
